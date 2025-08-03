@@ -1,15 +1,9 @@
-Here’s a visually enhanced and more attractive version of your `README.md` — with improved **Contact Me** and **Tech Stack** sections using icons and badges for a cleaner, more professional look:
-
----
-
-```markdown
 # Hi 👋, I'm Ehad Mohammed  
 **AI/ML Engineer | Full-Stack Developer | Tech Explorer**
 
-🔭 I’ve recently completed my **Bachelor of Engineering (B.E.)** from **Visvesvaraya Technological University (VTU)**  
+🔭 I’ve completed my **Bachelor of Engineering (B.E.)** 
 🎓 Major: **Artificial Intelligence and Machine Learning** — Class of **2025**
 
-🤝 I’m currently looking for **full-time roles** or **internships** in AI/ML, Data Science, or Full-Stack Development
 
 ---
 
@@ -49,7 +43,6 @@ Here’s a visually enhanced and more attractive version of your `README.md` —
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-
 </div>
 
 ---
@@ -59,7 +52,7 @@ Here’s a visually enhanced and more attractive version of your `README.md` —
 <div align="center">
 
 ![Ehad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehaad&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehaad&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehaad&layout=compact&theme=radical)  
 
 </div>
 
