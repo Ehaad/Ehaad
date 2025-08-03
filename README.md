@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ehad Mohammed  
+# Hi 👋, I'm Mohammed Ehad
 **AI/ML Engineer | Full-Stack Developer | Tech Explorer**
 
 🔭 I’ve completed my **Bachelor of Engineering (B.E.)** 
